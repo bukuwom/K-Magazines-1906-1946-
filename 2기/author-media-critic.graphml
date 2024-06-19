@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<graphml>
+    <key for="node" id="d0" attr.name="label" attr.type="string"/>
+    <key for="node" id="d1" attr.name="type" attr.type="string"/>
+    <key for="edge" id="e0" attr.name="weight" attr.type="double"/>
+    <graph id="G" edgedefault="undirected">
+        <node id="0">
+            <data key="d0">H.S.K</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="1">
+            <data key="d0">상공월보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="2">
+            <data key="d0">李光洙</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="3">
+            <data key="d0">소년</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="4">
+            <data key="d0">崔南善</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="5">
+            <data key="d0">L生</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="6">
+            <data key="d0">朴殷植</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="7">
+            <data key="d0">尹生</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="8">
+            <data key="d0">洪命假</data>
+            <data key="d1">작가</data>
+        </node>
+        <edge source="0" target="1" directed="false">
+            <data key="e0">4</data>
+        </edge>
+        <edge source="2" target="3" directed="false">
+            <data key="e0">4</data>
+        </edge>
+        <edge source="4" target="3" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="5" target="1" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="6" target="3" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="7" target="1" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="8" target="3" directed="false">
+            <data key="e0">2</data>
+        </edge>
+    </graph>
+</graphml>

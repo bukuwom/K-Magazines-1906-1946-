@@ -1,0 +1,305 @@
+<?xml version="1.0" ?>
+<graphml>
+    <key for="node" id="d0" attr.name="label" attr.type="string"/>
+    <key for="node" id="d1" attr.name="type" attr.type="string"/>
+    <key for="edge" id="e0" attr.name="weight" attr.type="double"/>
+    <graph id="G" edgedefault="undirected">
+        <node id="0">
+            <data key="d0">崔南善</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="1">
+            <data key="d0">소년</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="2">
+            <data key="d0">朴殷植</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="3">
+            <data key="d0">서우</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="4">
+            <data key="d0">대한학회월보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="5">
+            <data key="d0">金達河</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="6">
+            <data key="d0">玩市生</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="7">
+            <data key="d0">崔正欽</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="8">
+            <data key="d0">N.S.</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="9">
+            <data key="d0">金鳳鉉</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="10">
+            <data key="d0">盧庭鶴</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="11">
+            <data key="d0">友古崔</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="12">
+            <data key="d0">鄭錫鎔</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="13">
+            <data key="d0">趙鏞周</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="14">
+            <data key="d0">장학보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="15">
+            <data key="d0">낙동친목학회학보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="16">
+            <data key="d0">崔鳴煥</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="17">
+            <data key="d0">1</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="18">
+            <data key="d0">조양보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="19">
+            <data key="d0">2</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="20">
+            <data key="d0">3</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="21">
+            <data key="d0">4</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="22">
+            <data key="d0">5</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="23">
+            <data key="d0">6</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="24">
+            <data key="d0">7</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="25">
+            <data key="d0">8</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="26">
+            <data key="d0">9</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="27">
+            <data key="d0">10</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="28">
+            <data key="d0">11</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="29">
+            <data key="d0">12</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="30">
+            <data key="d0">13</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="31">
+            <data key="d0">14</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="32">
+            <data key="d0">15</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="33">
+            <data key="d0">16</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="34">
+            <data key="d0">17</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="35">
+            <data key="d0">19</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="36">
+            <data key="d0">서북학회월보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="37">
+            <data key="d0">20</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="38">
+            <data key="d0">21</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="39">
+            <data key="d0">22</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="40">
+            <data key="d0">23</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="41">
+            <data key="d0">녀자지남</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="42">
+            <data key="d0">24</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="43">
+            <data key="d0">25</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="44">
+            <data key="d0">26</data>
+            <data key="d1">작가</data>
+        </node>
+        <edge source="0" target="1" directed="false">
+            <data key="e0">27</data>
+        </edge>
+        <edge source="2" target="3" directed="false">
+            <data key="e0">9</data>
+        </edge>
+        <edge source="0" target="4" directed="false">
+            <data key="e0">7</data>
+        </edge>
+        <edge source="5" target="3" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="6" target="4" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="7" target="1" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="8" target="1" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="9" target="1" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="10" target="4" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="11" target="4" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="12" target="4" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="13" target="14" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="0" target="15" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="16" target="4" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="17" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="19" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="20" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="21" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="22" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="23" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="24" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="25" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="26" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="27" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="28" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="29" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="30" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="31" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="32" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="33" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="34" target="18" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="35" target="36" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="37" target="4" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="38" target="4" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="39" target="4" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="40" target="41" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="42" target="41" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="43" target="41" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="44" target="1" directed="false">
+            <data key="e0">1</data>
+        </edge>
+    </graph>
+</graphml>

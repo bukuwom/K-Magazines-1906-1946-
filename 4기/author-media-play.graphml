@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<graphml>
+    <key for="node" id="d0" attr.name="label" attr.type="string"/>
+    <key for="node" id="d1" attr.name="type" attr.type="string"/>
+    <key for="edge" id="e0" attr.name="weight" attr.type="double"/>
+    <graph id="G" edgedefault="undirected">
+        <node id="0">
+            <data key="d0">玄哲</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="1">
+            <data key="d0">개벽</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="2">
+            <data key="d0">吳天錫</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="3">
+            <data key="d0">학생계</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="4">
+            <data key="d0">梁建植</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="5">
+            <data key="d0">동명</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="6">
+            <data key="d0">尹敎重</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="7">
+            <data key="d0">시사평론</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="8">
+            <data key="d0">韓錫源</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="9">
+            <data key="d0">청년</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="10">
+            <data key="d0">方定煥</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="11">
+            <data key="d0">어린이</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="12">
+            <data key="d0">영대</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="13">
+            <data key="d0">孤竹</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="14">
+            <data key="d0">신민공론</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="15">
+            <data key="d0">金雲汀</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="16">
+            <data key="d0">朴英熙</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="17">
+            <data key="d0">백조</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="18">
+            <data key="d0">柳枝影</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="19">
+            <data key="d0">공영</data>
+            <data key="d1">잡지</data>
+        </node>
+        <edge source="0" target="1" directed="false">
+            <data key="e0">25</data>
+        </edge>
+        <edge source="2" target="3" directed="false">
+            <data key="e0">8</data>
+        </edge>
+        <edge source="4" target="5" directed="false">
+            <data key="e0">6</data>
+        </edge>
+        <edge source="6" target="7" directed="false">
+            <data key="e0">6</data>
+        </edge>
+        <edge source="8" target="9" directed="false">
+            <data key="e0">5</data>
+        </edge>
+        <edge source="10" target="11" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="2" target="12" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="13" target="14" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="15" target="1" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="16" target="17" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="18" target="19" directed="false">
+            <data key="e0">2</data>
+        </edge>
+    </graph>
+</graphml>

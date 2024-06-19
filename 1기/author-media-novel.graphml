@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<graphml>
+    <key for="node" id="d0" attr.name="label" attr.type="string"/>
+    <key for="node" id="d1" attr.name="type" attr.type="string"/>
+    <key for="edge" id="e0" attr.name="weight" attr.type="double"/>
+    <graph id="G" edgedefault="undirected">
+        <node id="0">
+            <data key="d0">崔南善</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="1">
+            <data key="d0">소년</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="2">
+            <data key="d0">玩市生</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="3">
+            <data key="d0">대한학회월보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="4">
+            <data key="d0">鄭錫鎔</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="5">
+            <data key="d0">1</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="6">
+            <data key="d0">조양보</data>
+            <data key="d1">잡지</data>
+        </node>
+        <node id="7">
+            <data key="d0">2</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="8">
+            <data key="d0">3</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="9">
+            <data key="d0">4</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="10">
+            <data key="d0">5</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="11">
+            <data key="d0">6</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="12">
+            <data key="d0">7</data>
+            <data key="d1">작가</data>
+        </node>
+        <node id="13">
+            <data key="d0">8</data>
+            <data key="d1">작가</data>
+        </node>
+        <edge source="0" target="1" directed="false">
+            <data key="e0">8</data>
+        </edge>
+        <edge source="2" target="3" directed="false">
+            <data key="e0">3</data>
+        </edge>
+        <edge source="4" target="3" directed="false">
+            <data key="e0">2</data>
+        </edge>
+        <edge source="5" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="7" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="8" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="9" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="10" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="11" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="12" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+        <edge source="13" target="6" directed="false">
+            <data key="e0">1</data>
+        </edge>
+    </graph>
+</graphml>
